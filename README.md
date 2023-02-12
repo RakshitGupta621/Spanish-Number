@@ -1,6 +1,3 @@
 # Spanish-Number
 Produces sound of each number in Spanish on clicking the number
-
-![App Screenshot](https://github.com/RakshitGupta621/Spanish-Number/blob/master/assets/app-screenshot.png)
-
-
+<img width="291" alt="app-screenshot" src="https://user-images.githubusercontent.com/75110126/218304909-7ada1d75-ec95-4edf-8967-cfe6fb3465cc.png">
